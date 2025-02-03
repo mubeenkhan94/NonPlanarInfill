@@ -1,7 +1,6 @@
-#!/usr/bin/env python3
 """
 Synergistic Non-Planar Infill & Bricklayer Internal Perimeters
-Copyright (c) 2023 [Your Name]
+Copyright (c) 2025
 Combines square wave infill modulation with layer-shift bricklaying
 """
 
